@@ -1,2 +1,1 @@
-# rsschool-cv
-github.com/itsmaxx1/rsschool-cv/blob/gh-pages/cv.md
+https://itsmaxx1.github.io/rsschool-cv/cv
